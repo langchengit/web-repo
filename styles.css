@@ -1,0 +1,38 @@
+.box{
+    border-radius: 20px;
+    background-color: white;
+    color: #463d36;
+    font-family: sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+body{
+    background-color: #463d36;
+}
+
+button{
+    background-color: #463d36;
+    padding: 30px 40px;
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+}
+
+h1{
+    margin-bottom: 28px;
+    margin-top: 0px;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+h2{
+    color: #a6192e;
+    margin-bottom: 0px;
+    font-size: 28px;
+}
+
+P{
+    font-size: 28px;
+}
